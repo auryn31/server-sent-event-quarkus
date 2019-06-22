@@ -1,0 +1,4 @@
+type,fast,slow
+blocking,12873,32.89
+stream,9708,32.19
+sse,8936,33.99
