@@ -1,0 +1,36 @@
+h1, h2 {
+  font-weight: normal;
+  line-height: 1.1;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  color: #42b983;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.carlistcontainer { 
+  display: grid; 
+  grid-template-columns: 150px 150px;
+  justify-content: space-evenly;
+  align-content: center;
+  #carlist-1 {
+    background: #fafafa;
+  }
+
+  #carlist-2 {
+    background: #fafafa;
+  }
+}
