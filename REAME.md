@@ -46,25 +46,25 @@ Here I refer again to the [article](https://blogs.itemis.com/de/how-to-reactive-
 The response at the endpoint described above then looks as follows:
 
 ```json
-data:{"company" : "Nova", "id" : 95553, "model" : "VW"}
+data:{"company" : "Audi", "id" : 65868, "model" : "TT Coupé"}
 
-data:{"company" : "Phaeton", "id" : 15805, "model" : "Toyota"}
+data:{"company" : "Fiat", "id" : 49782, "model" : "TT Coupé"}
 
-data:{"company" : "Vaneo", "id" : 7641, "model" : "Mercedes"}
+data:{"company" : "Kia", "id" : 5437, "model" : "Phaeton"}
 
-data:{"company" : "Pinto", "id" : 14267, "model" : "VW"}
+data:{"company" : "Toyota", "id" : 26772, "model" : "Nova"}
 
-data:{"company" : "Kuga", "id" : 57124, "model" : "Toyota"}
+data:{"company" : "VW", "id" : 38366, "model" : "Vaneo"}
 
-data:{"company" : "Opa", "id" : 33495, "model" : "Toyota"}
+data:{"company" : "Audi", "id" : 82640, "model" : "Pinto"}
 
-data:{"company" : "iMIEV", "id" : 36266, "model" : "VW"}
+data:{"company" : "Toyota", "id" : 67372, "model" : "Phaeton"}
 
-data:{"company" : "Vaneo", "id" : 55390, "model" : "Fiat"}
+data:{"company" : "Fiat", "id" : 15362, "model" : "Pinto"}
 
-data:{"company" : "Phaeton", "id" : 79631, "model" : "VW"}
+data:{"company" : "Fiat", "id" : 90028, "model" : "Opa"}
 
-data:{"company" : "e-tron", "id" : 80601, "model" : "Toyota"}
+data:{"company" : "Chevrolet", "id" : 25461, "model" : "e-tron"}
 
 data:done
 ```
